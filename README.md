@@ -20,6 +20,12 @@ print(
 )
 ```
 
+## Installation
+
+Pip: `pip install git+https://github.com/volfpeter/great-circle-distance.git#egg=great-circle-distance`
+
+Pipenv: `pipenv install git+https://github.com/volfpeter/great-circle-distance.git#egg=great-circle-distance`
+
 ## License - MIT
 
 The library is open-sourced under the conditions of the MIT [license](https://choosealicense.com/licenses/mit/).

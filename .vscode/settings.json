@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/peter/.local/share/virtualenvs/great-circle-distance-perEg1CS/bin/python"
+}

@@ -2,6 +2,10 @@ from typing import Tuple
 
 import math
 
+
+__version__ = "1.0.0"
+
+
 Coordinate = Tuple[float, float]
 
 
